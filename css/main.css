@@ -1,0 +1,36 @@
+h1 {
+	color: red;
+}
+
+.block {
+	color: #fff;
+	background: blue;
+	width: 100px;
+	height: 73px;
+	margin-bottom: 100px;
+}
+
+.new {
+	color: red;
+}
+
+.heading {
+	background: green;
+	color: #fff;
+	border: 6px solid green;
+}
+
+.heading2 {
+	background: green;
+	color: #fff;
+	padding: 40px 0px 40px 40px;
+}
+
+.text {
+	padding-left: 100px;
+}
+
+li {
+	border: 1px solid black;
+	font-size: 30px;
+}
